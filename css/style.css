@@ -1,5 +1,5 @@
 body{
-
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -10,18 +10,19 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
-    font-family: "Raleway", sans-serif;
+    font-style: "Raleway", sans-serif;
     font-weight: 700;
 }
-.list-heder span{
+.list-header a{
 
     letter-spacing: 0.02em;
     line-height: 1.5;
     font-weight: 500;
     color: #2e2f42;
+    text-decoration: none;
 }
-.studio:hover,
-.stido:focus{
+.list-header a:hover,
+.list-header a:focus{
     color: #404bbf;
 }
 .address{
