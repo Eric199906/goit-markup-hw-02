@@ -10,8 +10,11 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
-    font-style: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
+}
+.header-logo span{
+    color: #2e2f42;
 }
 .list-header a{
 
@@ -28,14 +31,14 @@ body{
 .address{
     font-style: normal;
 }
-.mail{
-    font-size: 15px;
-    line-height: 1.5;
+.address a{
+    font-size: 16px;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
     color: #434455;
 
 }
-.mail:hover,
-.mail:focus{
+.address a:hover,
+.address a:focus{
     color: #404bbf;
 }
