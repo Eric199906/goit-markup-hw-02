@@ -16,37 +16,16 @@ body{
 .header-logo span{
     color: #2e2f42;
 }
-.studio{
+.list-header{
+
     letter-spacing: 0.02em;
     line-height: 1.5;
     font-weight: 500;
     color: #2e2f42;
     text-decoration: none;
 }
-.portfolio{
-    letter-spacing: 0.02em;
-    line-height: 1.5;
-    font-weight: 500;
-    color: #2e2f42;
-    text-decoration: none;
-}
-.contacts{
-    letter-spacing: 0.02em;
-    line-height: 1.5;
-    font-weight: 500;
-    color: #2e2f42;
-    text-decoration: none;
-}
-.studio:hover,
-.studio:focus{
-    color: #404bbf;
-}
-.portfolio:hover,
-.portfolio:focus {
-    color: #404bbf;
-}
-.contacts:hover,
-.contacts:focus {
+.list-header:hover,
+.list-header:focus{
     color: #404bbf;
 }
 .address{
