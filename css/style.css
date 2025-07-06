@@ -75,6 +75,8 @@ body{
 
 }
 .team-info{
+    color: #434455;
+    font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -82,18 +84,16 @@ body{
     background-color: #F4F4FD;
 }
 .title-teams{
-    font-size: 37px;
+    font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
 .class-team{
     background-color: #ffffff;
 }
-.team-info{
-    font-size: 16;
-    letter-spacing: 0.02em;
-    line-height: 1.5;
+.list-team{
+    background-color: #ffffff;
 }
