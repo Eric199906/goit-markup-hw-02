@@ -78,3 +78,22 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.our-team{
+    background-color: #F4F4FD;
+}
+.title-teams{
+    font-size: 37px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.class-team{
+    background-color: #ffffff;
+}
+.team-info{
+    font-size: 16;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+}
