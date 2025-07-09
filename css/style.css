@@ -112,3 +112,9 @@ span.footer-logo{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
